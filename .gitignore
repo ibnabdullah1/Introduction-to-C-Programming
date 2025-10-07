@@ -1,0 +1,45 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dll
+*.dylib
+
+# Compiled Static libraries
+*.lib
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.gch
+*.pch
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Build directories
+/build/
+/bin/
+/debug/
+/release/
+
+# macOS specific
+.DS_Store
+
+# VSCode and other IDE settings
+.vscode/
+.idea/
+*.code-workspace
+
+# Backup files
+*~
+*.bak

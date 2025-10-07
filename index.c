@@ -12,7 +12,18 @@
 int main()
 {
     // Print a message to the screen
-    printf("Hi! I'm a C program.\n");
+    // printf("Hi! I'm a C program.\n");
+
+
+    
+
+    int num1= 10;
+    int num2 = 20;
+    int sum = num1 + num2;
+    printf("The sum of %d and %d is %d\n", num1, num2, sum); //The sum of 10 and 20 is 30
+
+
+
 
     // Return 0 indicates successful program termination
     return 0;
