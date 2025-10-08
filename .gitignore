@@ -43,3 +43,12 @@
 # Backup files
 *~
 *.bak
+
+# Other
+*output*
+*temp*
+*tmp*
+*cache*
+*logs*
+*temp*
+*tmp*
