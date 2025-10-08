@@ -46,6 +46,7 @@
 
 # Other
 *output*
+**/output/
 *temp*
 *tmp*
 *cache*
